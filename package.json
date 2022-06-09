@@ -1,0 +1,12 @@
+{
+  "name": "fancy-business-card",
+  "version": "1.0.0",
+  "description": "A boilerplate to create a fancy business card that outputs to the terminal using npx.",
+  "main": "index.js",
+  "bin": {
+    "fancy-business-card": "./index.js"
+  },
+  "scripts": {},
+  "author": "whitep4nth3r",
+  "license": "MIT"
+}

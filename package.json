@@ -1,6 +1,6 @@
 {
   "name": "fancy-business-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A boilerplate to create a fancy business card that outputs to the terminal using npx.",
   "main": "index.js",
   "bin": {
@@ -8,5 +8,11 @@
   },
   "scripts": {},
   "author": "whitep4nth3r",
+  "keywords": [
+    "tutorial",
+    "CLI",
+    "tool",
+    "business"
+  ],
   "license": "MIT"
 }
